@@ -1,0 +1,151 @@
+{% load staticfiles %}
+<html>
+<head>
+    <title>고려대학교 PL센터</title>
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <link rel="stylesheet" href="{% static 'css/bootstrap-lumen.css' %}">
+    <link rel="stylesheet" href="{% static 'css/qna.css' %}">
+    <script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+    {% block extrahead %}
+    {% endblock %}
+</head>
+<body>
+<style type="text/css">
+/* Side notes for calling out things
+-------------------------------------------------- */
+
+/* Base styles (regardless of theme) */
+.bs-callout {
+  margin: 20px 0;
+  padding: 15px 30px 15px 15px;
+  border-left: 5px solid #eee;
+}
+.bs-callout h4 {
+  margin-top: 0;
+}
+.bs-callout p:last-child {
+  margin-bottom: 0;
+}
+.bs-callout code,
+.bs-callout .highlight {
+  background-color: #fff;
+}
+
+/* Themes for different contexts */
+.bs-callout-danger {
+  background-color: #fcf2f2;
+  border-color: #dFb5b4;
+}
+.bs-callout-warning {
+  background-color: #fefbed;
+  border-color: #f1e7bc;
+}
+.bs-callout-info {
+  background-color: #f0f7fd;
+  border-color: #d0e3f0;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+</style>
+    <nav class="navbar navbar-inverse navbar-static-top">
+      <div class="container">
+        <!-- Brand and toggle get grouped for better mobile display -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">PL 센터</a>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+          <ul class="nav navbar-nav navbar-left">
+            <form class="navbar-form navbar-left" role="search">
+              <div class="input-group">
+                <input type="text" class="form-control" placeholder="질문을 먼저 검색하세요!">
+                <span class="input-group-btn">
+                  <button class="btn btn-default" type="button" style="padding-bottom: 8px;">검색</button>
+                </span>
+              </div>
+            </form>
+          </ul>
+          <ul class="nav navbar-nav">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">소개 <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">관리자소개</a></li>
+                <li><a href="#">시간표</a></li>
+                <li><a href="#">위치</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">질문/답변 <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">Python</a></li>
+                <li><a href="#">C</a></li>
+                <li><a href="#">C++</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#">ETC</a></li>
+              </ul>
+            </li>
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">튜토리얼 <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">비쥬얼스튜디오 설치법</a></li>
+                <li><a href="#">Python 설치법</a></li>
+                <li><a href="#">Java 환경변수 설정방법</a></li>
+              </ul>
+            </li>
+            <li><a href="#">Kuding</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">User <span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="#">마이페이지</a></li>
+                <li><a href="#">비밀번호 변경</a></li>
+                <li><a href="#">로그아웃</a></li>
+                <li role="separator" class="divider"></li>
+                <li><a href="#">회원탈퇴</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container-fluid -->
+    </nav>
+
+
+    <div class="content">
+        <div class="container paper">
+        <div class="bs-callout bs-callout-info" id="callout-type-b-i-elems"> <h4>이것은 공지입니다.</h4> <p>테스트 문구는 이렇게 작성하세요. 시험장소 공지나 그런 건 alert 로 처리하세요. 자세한 건 부트스트랩 문서를 읽으세요.</p> </div>
+            <div class="page-header">
+                <h1><a href="/qna">최근 올라온 질문</a>
+                {% if user.is_authenticated %}
+                    <a href="{% url 'question_new' %}" class="top-menu"> <i class="glyphicon glyphicon-plus"></i></a></h1>
+                {% endif %}
+            </div>
+            <div class="row">
+                <div class="col-md-9">
+                {% block content %}
+                {% endblock %}
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <div class="container">
+            <div class="copyright">
+                <p>서비스 이용의 책임은 전적으로 해당 사용자에 있지만, 문제가 발생한다면 PL센터에서 책임감을 갖고 돕습니다.</p>
+                <p>Dev by CHANN, Op by KU PL Center.</p>
+                <p>Copyright ⓒ PL Center. All rights reserved. </p>
+            </div>
+        </div>
+    </footer>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+</body>
+</html>
