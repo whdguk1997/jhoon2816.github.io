@@ -9,7 +9,7 @@ order: 3
 I will recommend some GUI tools to use for your study.
 
 Editor GUI
-1. Atom : https://atom.io/
+1. [Atom](https://atom.io/)
 2. Sublime_text : https://www.sublimetext.com
 3. Edit_plus : https://www.editplus.com/
 
