@@ -1,22 +1,28 @@
 ---
-title: Reading List
-subtitle: a list of books I read
+title: Refernce
+subtitle: Big Tips
 layout: "page"
 icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+I will recommend some GUI tools to use for your study.
 
-1. Robert Burton: *The Anatomy of Melancholy*
-2. Robert Musil: *The Man Without Qualities*
-3. Kazuo Ishiguro: *The Unconsoled*
-4. Malcolm Lowry: *Under the Volcano*
-5. Virginia Woolf: *The Waves*
-6. James Joyce: *Finnegans Wake*
-7. Thomas Wolfe: *Look Homeward, Angel*
-8. William Thackeray: *Pendennis*
-9. Karl Marx: *Capital*
-10. James Woodforde: *The Diary of A Country Parson*
+Editor GUI
+1. Atom : https://atom.io/
+2. Sublime_text : https://www.sublimetext.com
+3. Edit_plus : https://www.editplus.com/
 
-source: [The Guardian](https://www.theguardian.com/books/booksblog/2011/jan/04/best-boring-books)
+Node.js GUI
+1. WebStorm : https://www.jetbrains.com/webstorm/
+
+Package Manager
+1. npm : https://npmjs.com/
+2. yarn : https://yarnpkg.com/
+
+Database
+1. MySQL Workbench : https://dev.mysql.com/downloads/workbench/
+
+Git & Github
+1. Git : https://git-scm.com
+2. Github : https://github.com
