@@ -46,13 +46,13 @@ url: "http://jhoon2816.github.io" # the base hostname & protocol for your site
 # Social settings
 # Make sure to include the full url including protocol, e.g. https://github.com/chrisbobbe
 twitter_url:
-facebook_url:
+facebook_url: https://www.facebook.com/profile.php
 googleplus_url:
-instagram_url:
+instagram_url: https://www.instagram.com/jhun2816/?hl=ko 
 linkedin_url:
-github_url:
+github_url: https://github.com/jhoon2816
 pinterest_url:
-slack_url:
+slack_url: https://jhoon2816.slack.com/messages/DCZ2TN97F/
 dribbble_url:
 
 # Google Analytics Tracking ID goes here:
