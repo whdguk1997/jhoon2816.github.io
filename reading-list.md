@@ -24,7 +24,10 @@ Database
 1. [MySQL Workbench]( https://dev.mysql.com/downloads/workbench/)
 
 Git & Github
-1. [Git](https://git-scm.com) : [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/git-starter.pdf)
+1. [Git](https://git-scm.com)  
 2. [Github](https://github.com)
+ 
+- 강의슬라이드:[다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/git-starter.pdf)
 
 you can use this tools for free.
+If you want to use 'webstorm' for free, you have to activate by using student License.
