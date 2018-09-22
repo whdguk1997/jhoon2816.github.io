@@ -24,7 +24,7 @@ Database
 1. [MySQL Workbench]( https://dev.mysql.com/downloads/workbench/)
 
 Git & Github
-1. [Git](https://git-scm.com)
+1. [Git](https://git-scm.com)[다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/git-starter.pdf)
 2. [Github](https://github.com)
 
 you can use this tools for free.
