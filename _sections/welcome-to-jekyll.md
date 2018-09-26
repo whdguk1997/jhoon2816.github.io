@@ -1,5 +1,5 @@
 ---
-title: 시범 페이지입니다.
+title:강의자료
 icon: fa-check
 order: 5
 ---
