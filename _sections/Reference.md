@@ -30,5 +30,3 @@ Git & Github
 
 you can use this tools for free.
 If you want to use 'webstorm' for free, you have to activate by using student License.
-
-<br>
