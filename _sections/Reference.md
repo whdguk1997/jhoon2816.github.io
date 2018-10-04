@@ -14,8 +14,10 @@ order: 5
 
 9/29 Node.js 실습 수정자료 : [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/expressDemo.zip)
 
-9/30 CSS2 [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/CSS_2.pdf)
+9/30 CSS2 [다운로드]
 
 9/30 Node.js 쿠키,세션, 파일업로드(multer) middleware : [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/middleware.zip)
 
 Node.js Middleware 실습 전체본 : [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/Nodejs_Middleware.zip)
+
+10/6 CSS2 [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/CSS_2.pdf)
