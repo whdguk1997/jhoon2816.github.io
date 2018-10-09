@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="057dc585-92f1-4676-a227-6081f992ce76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-09-16-Nodejs-post.html" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-09-16-Nodejs-post.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_sections/Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sections/Reference.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pdf/com.zip" beforeDir="false" afterPath="$PROJECT_DIR$/pdf/com.zip" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -54,13 +51,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="html" value="3139" />
-          <entry key="md" value="378" />
+          <entry key="md" value="379" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="3139" />
-          <entry key="PLAIN_TEXT" value="378" />
+          <entry key="PLAIN_TEXT" value="379" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -72,8 +69,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sections/Reference.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
+            <state relative-caret-position="317">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -244,12 +241,12 @@
       <workItem from="1538963193180" duration="399000" />
       <workItem from="1539008979171" duration="87000" />
       <workItem from="1539071956769" duration="428000" />
-      <workItem from="1539074136267" duration="293000" />
+      <workItem from="1539074136267" duration="483000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14150000" />
+    <option name="totallyTimeSpent" value="14340000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
@@ -381,8 +378,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_sections/Reference.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="24" column="86" selection-start-line="24" selection-start-column="86" selection-end-line="24" selection-end-column="86" />
+        <state relative-caret-position="317">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
