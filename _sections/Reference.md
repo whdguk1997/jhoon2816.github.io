@@ -27,3 +27,5 @@ Node.js Middleware 실습 전체본 : [다운로드](https://github.com/jhoon281
 10/9 Node.js using MongoDB : [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/DatabaseExample.zip)
 
 10/13 CSS3 : [수업교재](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/CSS_3.pdf)/[img](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/img.zip)/ [실습1](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/css_practice1.zip) / [실습2](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/css_practice2.zip)
+
+10/14 CSS_text :[자료](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/CSS_text.pdf)/[실습](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/text_practice.zip))
