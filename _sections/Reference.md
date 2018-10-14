@@ -30,4 +30,4 @@ Node.js Middleware 실습 전체본 : [다운로드](https://github.com/jhoon281
 
 10/14 CSS_text :[자료](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/CSS_text.pdf)/[실습](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/text_practice.zip))
 
-10/14 Node 실습 : [자료 (https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/Node_Practice.pdf)]
+10/14 Node 실습 : [자료] (https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/Node_Practice.pdf)
