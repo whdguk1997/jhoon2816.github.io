@@ -6,15 +6,14 @@ order: 5
 ---
 강의 자료
 
-프론트엔트 기초반 : [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/html.pdf)  //
+[HTML5](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/html.pdf)
+[CSS3](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/CSS.pdf)
 
 프론트엔드 심화반 : [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/nodejs.pdf)
 
 9/29 [CSS 다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/CSS.pdf)
 
 9/29 Node.js 실습 수정자료 : [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/expressDemo.zip)
-
-9/30 CSS2 [다운로드]
 
 9/30 Node.js 쿠키,세션, 파일업로드(multer) middleware : [다운로드](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/middleware.zip)
 
