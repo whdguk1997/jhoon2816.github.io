@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="057dc585-92f1-4676-a227-6081f992ce76" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_sections/Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sections/Reference.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,7 +17,7 @@
     <session id="-691600396">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="15" />
+          <entry key="project.closed" value="16" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.15" value="2" />
@@ -268,16 +267,15 @@
       <workItem from="1539465510958" duration="123000" />
       <workItem from="1539492845773" duration="1510000" />
       <workItem from="1539841652453" duration="2348000" />
-      <workItem from="1539973797334" duration="597000" />
+      <workItem from="1539973797334" duration="626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19777000" />
+    <option name="totallyTimeSpent" value="19806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2192216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
