@@ -35,5 +35,4 @@ Node.js Middleware 실습 전체본 : [다운로드](https://github.com/jhoon281
                        [실습2](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/photo1_2.zip)
 10/20 5개월차 Node.js passport : [강의자료](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/Node_passport.pdf)
 
-
-[특수](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/photo1_3.zip)
+10/21 CSS_고급 2일차 : [강의자료](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/CSS_advanced2.pdf) // [실습자료](https://github.com/jhoon2816/jhoon2816.github.io/raw/master/pdf/Practice_CSS_A.zip)
