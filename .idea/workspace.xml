@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="057dc585-92f1-4676-a227-6081f992ce76" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_sections/Reference.md" beforeDir="false" afterPath="$PROJECT_DIR$/_sections/Reference.md" afterDir="false" />
-    </list>
+    <list default="true" id="057dc585-92f1-4676-a227-6081f992ce76" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +15,7 @@
     <session id="-691600396">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.15" value="2" />
@@ -80,8 +78,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_sections/Reference.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="78">
+              <caret line="19" column="46" selection-start-line="18" selection-end-line="19" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -270,16 +268,15 @@
       <workItem from="1539841652453" duration="2348000" />
       <workItem from="1539973797334" duration="626000" />
       <workItem from="1539992098830" duration="73000" />
-      <workItem from="1540008025096" duration="141000" />
+      <workItem from="1540008025096" duration="1129000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20020000" />
+    <option name="totallyTimeSpent" value="21008000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="777" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2192216" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -414,8 +411,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_sections/Reference.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        <state relative-caret-position="78">
+          <caret line="19" column="46" selection-start-line="18" selection-end-line="19" selection-end-column="46" />
         </state>
       </provider>
     </entry>
